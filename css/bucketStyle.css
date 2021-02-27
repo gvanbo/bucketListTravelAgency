@@ -1,0 +1,42 @@
+body {
+  background-image: url("/images/tall\ background_lighter.png");
+}
+
+footer {
+  background-color: #5a7684;
+}
+
+h3 {
+  text-align: center;
+}
+
+.navigation {
+  background-color: #5a7684;
+}
+
+.homeImage {
+  border: 2px solid black;
+  object-fit: cover;
+}
+
+.hero {
+  height: 25%;
+  margin: 10px;
+  padding: 10px;
+}
+
+.heroLogo {
+  border-radius: 50%;
+}
+
+.heroText {
+  text-align: center;
+}
+
+.btn-bucket {
+  background-color: #5a7684;
+  border: 1px solid white;
+  color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  width: 100%;
+}
